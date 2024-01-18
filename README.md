@@ -1,5 +1,5 @@
 # 目標
-實做兩種特徵篩選方法(Sequential Forward Selection 和 Fisher’s Criterion)；比較 Filter-based 和 Wrapper-based 特徵篩選法的異同；並利用乳癌資料集，搭配 LDA 分類器和2-Fold CV 完成分類任務，並使用平衡分類率以評估分類器效能。
+實做兩種特徵篩選方法(Sequential Forward Selection 和 Fisher’s Criterion)；比較 Filter-based 和 Wrapper-based 特徵篩選法的異同；並利用乳癌資料集，搭配 LDA 分類器和2-Fold CV 完成分類任務，並使用平衡分類率以評估分類器效能。
 - 乳癌資料集, Breast Cancer dataset：https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 # 資料描述
