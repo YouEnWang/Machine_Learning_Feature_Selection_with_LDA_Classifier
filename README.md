@@ -22,14 +22,14 @@
 # 程式執行方式
 - 此次作業我依照part1跟part2設計出兩個程式，分別為main_SFS.py以及main_Fisher.py。
 1. main_SFS.py
- - 透過ucimlrepo dataset直接導入Breast Cancer dataset
- - 直接執行程式，便會產生出所有結果的csv，內容包含：
+	- 透過ucimlrepo dataset直接導入Breast Cancer dataset
+	- 直接執行程式，便會產生出所有結果的csv，內容包含：
   (1) 每個step的Highest validated balanced accuracy與特徵子集
   (2) Optimal feature subset的特徵數、validated balanced accuracy、依feature index做sorted的Optimal feature subset
 
 2. main_Fisher.py
- - 透過ucimlrepo dataset直接導入Breast Cancer dataset
- - 直接執行程式，便會產生出所有結果的csv，內容包含：
+	- 透過ucimlrepo dataset直接導入Breast Cancer dataset
+	- 直接執行程式，便會產生出所有結果的csv，內容包含：
   (1) 每個feature的Fisher's score(依score做降序排列)
   (2) 用最高N筆特徵做LDA的Validated balanced accuracy與特徵子集
   (3) Optimal feature subset的特徵數、validated balanced accuracy、依feature index做sorted的Optimal feature subset
