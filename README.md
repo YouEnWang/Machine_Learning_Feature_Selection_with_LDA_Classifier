@@ -35,7 +35,7 @@
   (3) Optimal feature subset的特徵數、validated balanced accuracy、依feature index做sorted的Optimal feature subset
 
 # 討論
-1. Sequential Forward Selection 和 Fisher’s Criterion 分別屬於 Filter-based 和 Wrapper-based 中的何種特徵篩選方法？
+1. Sequential Forward Selection 和 Fisher’s Criterion 分別屬於 Filter-based 和 Wrapper-based 中的何種特徵篩選方法？
 	- Sequential Forward Selection：Wrapper-based
   - Fisher’s Criterion：Filter-based
 
